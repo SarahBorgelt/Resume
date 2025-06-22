@@ -98,7 +98,7 @@ footer {
 .bubble-nav {
   position: fixed;
   top: 50%;
-  left: 0;
+  left: 20px;
   transform: translateY(-50%);
   z-index: 1000;
 }
