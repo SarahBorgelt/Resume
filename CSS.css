@@ -94,3 +94,36 @@ footer {
     font-size: 1.5rem;
   }
 }
+
+.bubble-nav {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  z-index: 1000;
+}
+
+.bubble-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bubble-nav li {
+  margin: 10px 0;
+}
+
+.bubble-nav a {
+  display: block;
+  width: 15px;
+  height: 15px;
+  background-color: #aaa;
+  border-radius: 50%;
+  text-indent: -9999px;
+  transition: background-color 0.3s;
+}
+
+.bubble-nav a:hover,
+.bubble-nav a:focus {
+  background-color: #333;
+}
