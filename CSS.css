@@ -109,6 +109,7 @@ footer {
   position: sticky;
   top: 0;
   height: 100vh;
+  padding-top: 2rem;
 }
 
 .content-area {
@@ -130,7 +131,7 @@ a {
 .sidebar li {
   position: relative;
   margin-bottom: 1rem;
-  padding-left: 1.8rem; /* space for bubble */
+  padding-left: 1.8rem; 
 }
 
 .sidebar li::before {
@@ -141,7 +142,7 @@ a {
   transform: translateY(-50%);
   width: 12px;
   height: 12px;
-  background-color: #0D3B66; /* bubble color */
+  background-color: #0D3B66;
   border-radius: 50%;
 }
 
