@@ -115,3 +115,9 @@ footer {
   flex-grow: 1;
   padding: 1rem;
 }
+
+a {
+  color: #0D3B66;
+  text-decoration: none;
+  font-weight: 600;
+}
