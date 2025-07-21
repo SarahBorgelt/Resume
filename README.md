@@ -8,7 +8,7 @@ Access the live version of my resume here:
 
 ## 🔗 Quick Links
 
-- **Download PDF Resume:** [Sarah_Borgelt_Resume.pdf](https://github.com/SarahBorgelt/Resume/blob/main/Sarah_Borgelt_Resume.pdf)  
+- **Download PDF Resume:** [Sarah_Borgelt_Resume.pdf](https://github.com/SarahBorgelt/Resume/blob/main/S. Borgelt Resume PDF.pdf)  
 - **LinkedIn:** [linkedin.com/in/sarahnicole1](https://www.linkedin.com/in/sarahborgelt)  
 - **GitHub:** [github.com/SarahBorgelt](https://github.com/SarahBorgelt)
 
