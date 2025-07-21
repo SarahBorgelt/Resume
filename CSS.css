@@ -156,3 +156,11 @@ a {
 .sidebar a:focus {
   text-decoration: underline;
 }
+
+.bold {
+  font-weight: bold;
+}
+
+.italicize {
+  font-style: italic;
+}
