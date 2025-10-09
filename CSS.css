@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-  font-size: 2.8rem;
+  font-size: 3.5rem;
   color: #0D3B66;
   margin-bottom: 1.5rem;
   font-weight: 700;
@@ -33,9 +33,12 @@ h1 {
 h2 {
   color: #0D3B66;
   font-size: 1.8rem;
-  margin-bottom: 0.6rem;
-  border-bottom: 3px solid #0D3B66;
   padding-bottom: 0.25rem;
+  margin-bottom: 0.6rem;
+}
+
+.subsection {
+  border-bottom: 3px solid #0D3B66;
 }
 
 p {
@@ -160,4 +163,35 @@ a {
 
 .italicize {
   font-style: italic;
+}
+
+.target-job-description {
+  font-size: 2.1rem;
+}
+
+/* Create a responsive web design for mobile screens */
+@media (max-width: 768px) {
+  .container {
+    overflow-x: auto;
+  }
+
+  .sidebar {
+    width: 180px;
+  }
+
+  .content-area {
+    min-width: 280px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  .target-job-description{
+    font-size: 1.6rem;
+  }
 }
