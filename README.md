@@ -1,7 +1,7 @@
 # Sarah Borgelt – Aspiring Software Engineer
 Transitioning from supply chain operations to software development with a strong foundation in full-stack technologies.
 
-<img src="ProfessionalHeadshot 2.jpg" style="border-radius: 50%">
+<img src="ProfessionalHeadshot2.jpg" style="border-radius: 50%;">
 
 
 ## 💼 About Me
