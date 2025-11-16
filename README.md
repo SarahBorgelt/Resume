@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="README.css">
 
 # Sarah Borgelt – Aspiring Software Engineer
 Transitioning from supply chain operations to software development with a strong foundation in full-stack technologies.
