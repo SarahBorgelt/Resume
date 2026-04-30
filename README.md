@@ -4,10 +4,7 @@ Transitioning from supply chain operations to software development with a strong
 
 
 ## 💼 About Me
-
-I am a passionate and motivated aspiring software engineer, transitioning from a professional background in supply chain to technology. My journey into coding began after a pivotal life moment in January 2025, when I lost my mother unexpectedly. This experience inspired me to pursue meaningful changes in my life, including exploring new career opportunities that aligned with my curiosity and problem-solving mindset.
-
-Almost by chance, I enrolled in an introductory programming class through We Can Code IT, where I learned the fundamentals of HTML, CSS, and JavaScript. I immediately discovered a love for creating functional and visually appealing web applications.
+Almost by chance, I enrolled in an introductory programming class through We Can Code IT around May of 2025, where I learned the fundamentals of HTML, CSS, and JavaScript. I immediately discovered a love for creating functional and visually appealing web applications.
 
 Building on that foundation, I completed the Responsive Web Design Certification through freeCodeCamp in June 2025, deepening my skills in modern web development and responsive design. Seeking a more comprehensive understanding of software engineering, I then enrolled in Tech Elevator, where I am currently mastering full-stack development with Java, Spring Boot, PostgreSQL, JavaScript, HTML, and CSS.
 
