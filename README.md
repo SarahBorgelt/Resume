@@ -1,6 +1,6 @@
 
-# Sarah Borgelt – Aspiring Software Engineer
-
+# Sarah Borgelt – Software Engineer
+I am a software engineer who loves creating innovative solutions to everyday problems. 
 
 ## 💼 About Me
 Almost by chance, I enrolled in an introductory programming class through We Can Code IT around May of 2025, where I learned the fundamentals of HTML, CSS, and JavaScript. I immediately discovered a love for creating functional and visually appealing web applications.
@@ -20,7 +20,7 @@ my resume">
 
 ## 🔗 Quick Links
 
-- **LinkedIn:** [linkedin.com/in/sarahnicole1](https://www.linkedin.com/in/sarahborgelt)  
+- **LinkedIn:** [linkedin.com/in/sarahborgelt](https://www.linkedin.com/in/sarahborgelt)  
 - **GitHub:** [github.com/SarahBorgelt](https://github.com/SarahBorgelt)
 
 ## 💻 Technical Skills
@@ -35,7 +35,7 @@ my resume">
 - Developed **hands-on projects** demonstrating clean code, responsive UI, and practical software engineering principles  
 
 ## 🎯 Career Goals
-- Seeking **internships or entry-level software engineering roles**  
+- Seeking **entry-level software engineering roles**  
 - Committed to building **clean, user-friendly applications** and continuously improving technical skills
 
 ## 📬 Contact
